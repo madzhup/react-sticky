@@ -1,6 +1,6 @@
-react-sticky [![Build Status](https://travis-ci.org/captivationsoftware/react-sticky.svg?branch=master)](https://travis-ci.org/captivationsoftware/react-sticky)
+react-sticky-caprure [![Build Status](https://travis-ci.org/captivationsoftware/react-sticky.svg?branch=master)](https://travis-ci.org/captivationsoftware/react-sticky)
 ============
-The most powerful Sticky library available for React!
+Contains a minor fix for event capturing of the most powerful Sticky library available for React!
 
 #### Demos
   - [Basic](http://rawgit.com/captivationsoftware/react-sticky/master/examples/basic/index.html)

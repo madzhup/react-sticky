@@ -1,6 +1,6 @@
 {
-  "name": "react-sticky",
-  "version": "5.0.5",
+  "name": "react-sticky-capture",
+  "version": "5.0.6",
   "description": "Sticky component for React",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/captivationsoftware/react-sticky"
+    "url": "https://github.com/madzhup/react-sticky"
   },
   "keywords": [
     "react-component",
